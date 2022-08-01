@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "uname": "Developer",
+      "email": "hello@gmail.com",
+      "password": "hello"
+    }
+  ],
+  "hostels": [
+    {
+      "id": 1,
+      "Name": "Stanza Living",
+      "Address": "Nizampet, near bharath petrol bunk, hyderabad",
+      "Rent": "7000",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL_w3i4zok0xli2XHDlCAu_md-8eNFJkd2Zw&usqp=CAU",
+      "rating": "4.0",
+      "Contact": "+91 123456789",
+      "change": true
+    },
+    {
+      "id": 2,
+      "Name": "Isthara",
+      "Address": "Addagutta, JNTU, hyderabad",
+      "Rent": "8000/M",
+      "image": "data:image/jpeg;base64,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",
+      "rating": "3.5",
+      "Contact": "+91 123456789",
+      "change": false
+    },
+    {
+      "id": 3,
+      "Name": "Isthara For Women",
+      "Address": "Banjara Hills, Hyderabad",
+      "Rent": "9000/M",
+      "image": "https://isthara-prod.s3.ap-south-1.amazonaws.com/property+images/Banjara_Hills/HYD_Banjara_Hills_Building.jpg",
+      "rating": "4.2",
+      "Contact": "+91 8790858581",
+      "change": false
+    },
+    {
+      "id": 4,
+      "Name": "Maruthi Pg For Mens",
+      "Address": "HIG 11, Phase I, Road No 1, KPHB Colony, Hyderabad - 500085, Near YSR Statue",
+      "Rent": "6500/M",
+      "image": "https://content3.jdmagicbox.com/comp/hyderabad/p2/040pxx40.xx40.210821170810.y3p2/catalogue/maruthi-pg-for-mens-kphb-colony-hyderabad-hostels-bml4zio6hd.jpg?clr=3d2929",
+      "rating": "3.5",
+      "Contact": "+91 123456789",
+      "change": false
+    },
+    {
+      "id": 5,
+      "Name": "Sri Tanuja Ladies Pg Hostel",
+      "Address": "House No 15-24-411, Road No 4, Kukatpally Housing Board, Hyderabad - 500085, Adjacent Subbaiahgari Hotel",
+      "Rent": "6500/M",
+      "image": "https://content3.jdmagicbox.com/comp/hyderabad/i8/040pxx40.xx40.191112121722.c8i8/catalogue/sri-tanuja-ladies-pg-hostel-kukatpally-hyderabad-hostels-0ai6dh9077.jpg?clr=44222d",
+      "rating": "3.5",
+      "Contact": "+91 123456789",
+      "change": false
+    },
+    {
+      "id": 6,
+      "Name": "Liv'it",
+      "Address": "Plot No: 1359&1360, VIP Hills, Ayyappa Society, Madhapur, Hyderabad - 500081, Back to Karvy Office",
+      "Rent": "6500/M",
+      "image": "https://d2bxpw04qb5rhq.cloudfront.net/production/property_image/image/121521/690aa939c6b717628d2949d741ca7b35970617cda293b2afa4e6c4e3fe822d7b678130ccecbaa9d9/8B153BA7-F5B9-41B8-9955-8C1024AF8666.jpeg",
+      "rating": "4.0",
+      "Contact": "+91 123456789",
+      "change": false
+    },
+    {
+      "id": 7,
+      "Name": "Sagar Luxury Mens PG & Hostel",
+      "Address": "House No 1-98/90/72, Hitex Gateway, Kothaguda-Kondapur, Hyderabad - 500084, Near Hyundai Motors",
+      "Rent": "6500/M",
+      "image": "https://content3.jdmagicbox.com/comp/hyderabad/s1/040pxx40.xx40.180104213900.i5s1/catalogue/sagar-luxury-mens-pg-and-hostel-kothaguda-kondapur-hyderabad-hostels-for-men-dwrba.jpg?clr=202046",
+      "rating": "3.8",
+      "Contact": "08045790422",
+      "change": false
+    },
+    {
+      "id": 8,
+      "Name": "Radha Krishna Women's Luxury PG Accommodation",
+      "Address": "Lig 153, Road No 2, KPHB Colony, Hyderabad - 500085, Near Eenadu Lane",
+      "Rent": "6000/M",
+      "image": "https://content3.jdmagicbox.com/comp/hyderabad/m6/040pxx40.xx40.220127103909.f3m6/catalogue/-4omx58bf20.jpg?clr=273f3f",
+      "rating": "3.5",
+      "Contact": "08045790422",
+      "change": false
+    },
+    {
+      "id": 9,
+      "Name": "Sree Vishnu Priya Women's PG Hostel",
+      "Address": "Plot No 25, 2nd Left, Pragathi Nagar Road, Opp JNTU, Kphb Colony, Hyderabad - 500085, Near Airtel Office",
+      "Rent": "6500/M",
+      "image": "https://content3.jdmagicbox.com/comp/hyderabad/s3/040pxx40.xx40.181210172306.q4s3/catalogue/sree-vishnu-priya-women-s-pg-hostel-kphb-colony-hyderabad-hostels-ihc9xkgsp7.jpg?clr=444422",
+      "rating": "3.8",
+      "Contact": "08045790422",
+      "change": false
+    },
+    {
+      "id": 10,
+      "Name": "KM EXECUTIVE MEN'S PG & HOSTELS",
+      "Address": "Flat No 32 & 33, Cyber Hills Colony, Madhapur, Hyderabad - 500081, Image Gardens",
+      "Rent": "6500/M",
+      "image": "https://content3.jdmagicbox.com/comp/def_content/hostels_for_women/default-hostels-for-women-4.jpg?clr=252541",
+      "rating": "3.8",
+      "Contact": "07949304866",
+      "change": false
+    }
+  ]
+}
